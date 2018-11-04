@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Fiji Studio]]></title>
+        <description><![CDATA[Fiji Studio]]></description>
+        <link>https://thegrid.ai/fijistudio/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 04 Nov 2018 13:44:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fijistudio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/83726ac6-4bf7-401f-9f9c-5ad5837955e9.jpg">,<p><strong>Почему мы?</strong></p>,<p>наша студия является новым уровнем студий звукозаписи в уфе.</p>]]></description>
+            <link>https://thegrid.ai/fijistudio/pochemu-my/index.html</link>
+            <guid isPermaLink="false">27a7cc0a-f76d-4720-b843-7e0e731db5ae</guid>
+            <pubDate>Sun, 04 Nov 2018 05:53:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
