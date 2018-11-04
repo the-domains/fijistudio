@@ -1,0 +1,38 @@
+typography_spectrum: 0.8779331886309134
+content_rating:
+  adult: false
+color:
+  brandColors:
+    - '#000000'
+    - '#00BF70'
+    - '#002D1B'
+    - '#00894F'
+    - '#004023'
+  brandStrength: 0.4926747416612683
+  lightness: 0.8392079255079832
+  saturation: 0.940421128613819
+  rhythmicContrast: 0.11120312633629113
+github: true
+layout_spectrum: 0.05698883623567106
+name: fijistudio
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: 'Y'
+    id: 27a7cc0a-f76d-4720-b843-7e0e731db5ae
+    type: content
+title: Fiji Studio
+content: []
+description: 'арт студия '
+purpose:
+  - type: contact
+    url: 'mailto:fijistudio.connect@gmail.com'
+    label: Почта
+  - type: contact
+    url: 'tel:79991319970'
+    label: Запись
