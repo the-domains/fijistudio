@@ -22,10 +22,6 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-navigation:
-  - name: 'Y'
-    id: 27a7cc0a-f76d-4720-b843-7e0e731db5ae
-    type: content
 title: Fiji Studio
 content: []
 description: 'арт студия '
