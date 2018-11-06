@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: Дизайн. от логотипов до жилых интерьеров
-dateModified: '2018-11-06T21:35:49.262Z'
-datePublished: '2018-11-06T21:35:50.399Z'
+dateModified: '2018-11-06T21:42:11.091Z'
+datePublished: '2018-11-06T21:42:11.212Z'
 title: ''
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-11-06-dizajn-ot-logotipov-do-zhilyh-intererov.md
 starred: false
 datePublishedOriginal: '2018-11-06T21:35:47.969Z'
-sourcePath: _posts/2018-11-06-dizajn-ot-logotipov-do-zhilyh-intererov.md
 _type: Blurb
 
 ---
