@@ -1,9 +1,9 @@
 ---
 inFeed: true
-description: 'создание песни и студийная запись '
-dateModified: '2018-11-06T21:42:11.091Z'
-datePublished: '2018-11-06T21:42:11.214Z'
-title: ''
+description: ''
+dateModified: '2018-11-06T21:46:25.903Z'
+datePublished: '2018-11-06T21:46:26.565Z'
+title: создание песни и студийная запись
 author: []
 publisher: {}
 via: {}
@@ -13,6 +13,7 @@ datePublishedOriginal: '2018-11-06T21:34:14.565Z'
 _type: Blurb
 
 ---
+## **создание песни и студийная запись**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd08983d-5df5-4d07-819b-d981029ad355.jpg)
 
-создание песни и студийная запись
+## создадим песню любого стиля и направления. хитовый трек или лоу фай рок? не проблема
